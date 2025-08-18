@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет! Меня зовут Дима, я Data Analyst 👋
 
 <!--
 **Dmitrii-Medvedev/Dmitrii-Medvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
