@@ -6,10 +6,21 @@
 ---
 
 ## 🛠️ Стек инструментов
-- **Языки и библиотеки:** Python (Pandas, Numpy, Scipy, Plotly), SQL  
-- **Базы данных:** Clickhouse, PostgreSQL  
-- **BI и визуализация:** Redash, Yandex DataLens, Excel, Google Sheets  
-- **Оркестрация и Dev:** Airflow, Git, Jupyter Notebook  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
+![Clickhouse](https://img.shields.io/badge/Clickhouse-FFCC01?logo=clickhouse&logoColor=black)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)  
+![DataLens](https://img.shields.io/badge/Yandex%20DataLens-FF0000?logo=yandex&logoColor=white)  
+![Redash](https://img.shields.io/badge/Redash-FF0000?logo=plotly&logoColor=white) 
 
 ---
 
@@ -57,8 +68,8 @@
 ---
 
 ## 📫 Контакты
-- Telegram: [@BearsPowers](https://t.me/BearsPowers)  
-- Email: dima46dima92@gmail.com  
-- GitHub: [Dmitrii-Medvedev](https://github.com/Dmitrii-Medvedev)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/BearsPowers)  
+[![Email](https://img.shields.io/badge/Email-dima46dima92@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:dima46dima92@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Dmitrii--Medvedev-181717?logo=github&logoColor=white)](https://github.com/Dmitrii-Medvedev)    
 
 ---
